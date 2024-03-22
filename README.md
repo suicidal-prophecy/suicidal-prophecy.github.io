@@ -1,1 +1,0 @@
-# suicidal-prophecy.github.io
