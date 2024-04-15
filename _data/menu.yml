@@ -9,9 +9,11 @@ entries:
       - title: twitter
         url: https://x.com/_0ptr
       - title: telegram
-        url: https://t.me/scarecat 
+        url: https://t.me/scarecat
+      - title: email
+        url: mailto:kshankr@hotmail.com
 
-  - title: all posts
+  - title: posts
     post_list:
       limit: 10
       show_more: true
